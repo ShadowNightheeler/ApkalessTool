@@ -8,3 +8,4 @@ youtube-dl
 who_is_on_my_wifi
 playsound
 pydub
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
